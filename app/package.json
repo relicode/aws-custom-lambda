@@ -1,0 +1,11 @@
+{
+  "name": "aws-custom-lambda",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-lambda-ric": "^2.0.0"
+  }
+}
