@@ -6,13 +6,18 @@ A demo application that sets up a custom Alpine/Nodejs container and provides sc
 
 ### Requirements
 
-Nodejs, docker, curl, aws-lambda-rie
+Curl, docker, nodejs
 
 ### Setup
 
 Install local aws-lambda rie with `./dl-lambda-rie.sh` script.
 
-### Development
+### Usage
 
 1. Build and start container in development mode `./dev.sh`
 2. Invoke the lambda within the container with `./invoke.sh`
+
+### Screenshot
+
+![Demo container](https://github.com/relicode/aws-custom-lambda/blob/master/media/demo-container.png?raw=true)
+
