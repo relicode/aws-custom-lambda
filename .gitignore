@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Runtime emulator that should be fetched separately
+# https://github.com/aws/aws-lambda-runtime-interface-emulator
+/lambda-rie
